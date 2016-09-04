@@ -1,17 +1,13 @@
-# Setting up the Project
+# WeAreCode
 
 First you'll need [Node.js](https://nodejs.org) and the package manager
 that comes with it: [npm](https://www.npmjs.com/).
 
-Once you've got that working, head to the command line where we'll set
-up our project.
-
-## Clone the Tutorial
+## Clone the Repository
 
 ```
-git clone https://github.com/reactjs/react-router-tutorial
-cd react-router-tutorial
-cd lessons/01-setting-up
+git clone https://github.com/ValerioFoddai/wearecode
+cd wearecode
 npm install
 npm start
 ```
@@ -21,13 +17,23 @@ Now open up [http://localhost:8080](http://localhost:8080)
 Feel free to poke around the code to see how we're using webpack and npm
 scripts to run the app.
 
-You should see a "Hello React Router" message in the browser.
+## Tech Info:
 
-## Make Some Changes
+Node.js
+Npm
 
-Open up `modules/App.js` and change the text to something like "Hello
-<your name>". The browser automatically reloads with your new code.
+Css Framework: Bootstrap 4
+
+Work in progress:
+
+Heroku
+Google AppEngine
+
+## Made in London With Love
 
 ---
+[Developer: Valerio Foddai ](http:foddai.com)
 
-[Next: Rendering a Router](../02-rendering-a-route/)
+Valerio Foddai
+
+#London #Milan #Amsterdam
