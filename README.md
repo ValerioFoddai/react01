@@ -34,10 +34,12 @@ Heroku
 Google AppEngine
 
 ---
-[Developer: Valerio Foddai ](http:foddai.com)
+Developer:
 
-Valerio Foddai   Valerio@Foddai.com
+[Valerio Foddai ](http:foddai.com)
 
-London.  Milan. Amsterdam.
+Valerio@Foddai.com
 
-## Made in London With Love
+London  Milan Amsterdam
+
+Made in London With Love
