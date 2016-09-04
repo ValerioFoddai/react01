@@ -20,6 +20,7 @@ scripts to run the app.
 ## Tech Info:
 
 Node.js
+
 Npm
 
 Css Framework: Bootstrap 4
@@ -27,13 +28,14 @@ Css Framework: Bootstrap 4
 Work in progress:
 
 Heroku
-Google AppEngine
 
-## Made in London With Love
+Google AppEngine
 
 ---
 [Developer: Valerio Foddai ](http:foddai.com)
 
 Valerio Foddai
 
-#London #Milan #Amsterdam
+## Made in London With Love
+
+## #London #Milan #Amsterdam
