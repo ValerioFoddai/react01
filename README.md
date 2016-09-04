@@ -19,6 +19,8 @@ scripts to run the app.
 
 ## Tech Info:
 
+React
+
 Node.js
 
 Npm
@@ -34,7 +36,7 @@ Google AppEngine
 ---
 [Developer: Valerio Foddai ](http:foddai.com)
 
-Valerio Foddai
+Valerio Foddai   Valerio@Foddai.com
 
 ## Made in London With Love
 
