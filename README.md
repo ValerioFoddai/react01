@@ -38,6 +38,6 @@ Google AppEngine
 
 Valerio Foddai   Valerio@Foddai.com
 
-## Made in London With Love
+London.  Milan. Amsterdam.
 
-## #London #Milan #Amsterdam
+## Made in London With Love
